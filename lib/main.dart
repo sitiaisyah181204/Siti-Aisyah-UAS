@@ -21,7 +21,7 @@ class MainApp extends StatelessWidget {
         // brightness: Brightness.light,
         // textTheme: GoogleFonts.robotoTextTheme(),
       ),
-      home: const BerandaScreen(),
+      home:BerandaScreen(),
     );
   }
 }
